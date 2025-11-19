@@ -1,0 +1,7 @@
+-- PANDUAN TERKAIT DATASET --
+1. TrueOffMyChest
+    - Scrap berasal dari Reddit.
+    - URL Reddit: https://www.reddit.com/r/TrueOffMyChest/comments/t9m7fl/i_might_die_in_7_hours_and_im_not_afraid/
+    - Konten: Tentang Andrew yang mau menjalani operasi tumor tulang. Dia menulis reddit sebelum dia operasi.
+
+
